@@ -1,5 +1,7 @@
 # JumpList
 A custom JumpList for your desktop.  It functions much like the Windows applications when you right click on them to the taskbar.
+This is an English translation to the original which can be found here:
+[Original by Babeuloula](https://github.com/babeuloula/JumpList/ "Babeuloula JumpList")
 
 Download the utility here: 
 [Releases](https://github.com/aaronmaynard/JumpList/releases/ "Download JumpList")
