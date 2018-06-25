@@ -1,0 +1,28 @@
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Debug\JumpList.exe
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Debug\JumpList.pdb
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\App.baml
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\JumpList_MarkupCompile.cache
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\JumpList.g.resources
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\nJumpList.Properties.Resources.resources
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\JumpList.exe
+C:\Documents and Settings\greynaud\Mes documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\JumpList.pdb
+C:\Users\Aaron Maynard\source\repos\GitList\obj\x86\Debug\JumpList.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Maynard\source\repos\GitList\obj\x86\Debug\MainWindow.baml
+C:\Users\Aaron Maynard\source\repos\GitList\obj\x86\Debug\App.baml
+C:\Users\Aaron Maynard\source\repos\GitList\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aaron Maynard\source\repos\GitList\obj\x86\Debug\App.g.cs
+C:\Users\Aaron Maynard\source\repos\GitList\obj\x86\Debug\JumpList_MarkupCompile.cache
+C:\Users\Aaron Maynard\source\repos\GitList\obj\x86\Debug\JumpList.g.resources
+C:\Users\Aaron Maynard\source\repos\GitList\obj\x86\Debug\nJumpList.Properties.Resources.resources
+C:\Users\Aaron Maynard\source\repos\GitList\obj\x86\Debug\JumpList.csproj.GenerateResource.Cache
+C:\Users\Aaron Maynard\source\repos\GitList\obj\x86\Debug\JumpList.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Maynard\source\repos\GitList\bin\Debug\JumpList.exe
+C:\Users\Aaron Maynard\source\repos\GitList\bin\Debug\JumpList.pdb
+C:\Users\Aaron Maynard\source\repos\GitList\obj\x86\Debug\JumpList.exe
+C:\Users\Aaron Maynard\source\repos\GitList\obj\x86\Debug\JumpList.pdb
